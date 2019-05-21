@@ -1,0 +1,106 @@
+{
+  "_rv": 0
+}
+Putting system to sleep and NOT disabling video in.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Waking system.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Number of fails detected this iteration: 0
+Current Parser Count: 3
+Putting system to sleep and NOT disabling video in.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Waking system.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Number of fails detected this iteration: 0
+Current Parser Count: 3
+Putting system to sleep and NOT disabling video in.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Waking system.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Number of fails detected this iteration: 0
+Current Parser Count: 3
+Putting system to sleep and NOT disabling video in.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Waking system.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Number of fails detected this iteration: 0
+Current Parser Count: 3
+Putting system to sleep and NOT disabling video in.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Waking system.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Number of fails detected this iteration: 0
+Current Parser Count: 3
+Putting system to sleep and NOT disabling video in.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Waking system.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
+Number of fails detected this iteration: 0
+Current Parser Count: 3
+Putting system to sleep and NOT disabling video in.
+{
+  "_rv": 0
+}
+{
+  "_rv": 0
+}
